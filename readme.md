@@ -100,4 +100,4 @@ Bus 101 successfully add kora hoyeche!
 ---
 
 ## 🔗 Repository Link
-- **Source Code:** [bus.py](https://github.com/masud99171/Bangladesh_Bus_Ticket_Booking_System/blob/main/bus.py)
+- **Source Code:** [bus.py](https://github.com/masud99171/Bangladesh_Bus_Ticket_Booking_System)
